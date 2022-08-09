@@ -59,7 +59,7 @@
     "jsdom": "^20.0.0",
     "katex": "^0.10.0-rc.1",
     "lint-staged": ">=10",
-    "markdown-it": "^8.4.2",
+    "markdown-it": "^12.3.2",
     "markdown-it-br": "^1.0.0",
     "markdown-it-center-text": "^1.0.4",
     "markdown-it-container": "^2.0.0",
